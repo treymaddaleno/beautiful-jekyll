@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/Prom Rock Hands.jpg"
+avatar: "/img/promahh.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -71,18 +71,18 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "tamaddaleno@gmail.com"
-  facebook: daattali
-# github: daattali
-# twitter: daattali
+# rss: true
+   email: "tamaddaleno@gmail.com"
+   facebook: "trey.maddaleno"
+#  github: daattali
+   twitter: trandrewm
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+   linkedin: treymaddaleno
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+   instagram: "trandrew.m"
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "treymaddaleno.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
