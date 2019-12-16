@@ -8,4 +8,4 @@ Hey! I'm Trey Maddaleno, a sophomore chemistry major at Truman Student Universit
 
 ### My Resume
 
-<iframe src="/img/OldResume.pdf" width=90%> </iframe>
+<iframe src="/img/OldResume.pdf" width="90%"> </iframe>
