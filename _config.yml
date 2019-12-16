@@ -17,7 +17,7 @@ baseurl: ""
 title: Trey Maddaleno
 
 # Short description of your site
-description: A personal cache of photos, stories, and life.
+description: Undergraduate Chemist at Truman State University
 
 # --- Navigation bar options --- #
 
@@ -93,7 +93,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
