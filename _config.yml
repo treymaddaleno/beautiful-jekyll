@@ -28,25 +28,25 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/promahh.jpg"
+# avatar: "/img/promahh.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+ title-img: "/img/promahh.jpg"
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#C4DBF6"
+navbar-text-col: "#8590AA"
+navbar-children-col: "#C4DBF6"
+page-col: "#E7E3D4"
+link-col: "#3B8BEB"
+hover-col: "#B23850"
+footer-col: "#C4DBF6"
+footer-text-col: "#8590AA"
+footer-link-col: "#3B8BEB"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
